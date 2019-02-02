@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-practise",
+  "version": "1.0.0",
+  "description": "This is my basic project setup for bootstrap configuration for practice.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kathuria/Bootstrap-Practise.git"
+  },
+  "keywords": [
+    "boostrap",
+    "boostrap-4",
+    "flexbox",
+    "breakoint",
+    "css",
+    "sass"
+  ],
+  "author": "Avi Kathuria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kathuria/Bootstrap-Practise/issues"
+  },
+  "homepage": "https://github.com/Kathuria/Bootstrap-Practise#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {}
+}
