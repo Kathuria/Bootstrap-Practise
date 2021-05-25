@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/Kathuria/Bootstrap-Practise#readme",
   "dependencies": {
-    "bootstrap": "^4.2.1"
+    "bootstrap": "^4.3.1"
   },
   "devDependencies": {}
 }
